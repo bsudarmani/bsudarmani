@@ -1,6 +1,6 @@
 <h1 align="center"> Hi there 👋 It's me  Sudarmani</h1>
 <h4 align="center">Welcome to my GitHub profile! I'm a Full Stack Developer with a passion for leveraging my skills to build interactive and scalable web applications. With a strong foundation in tools like HTML, CSS, JavaScript, React JS, Bootstrap, Node.js, Express.js, MongoDB, I aim to combine technical expertise with business acumen to deliver impactful solutions. </h4>
-![Profile Views](https://komarev.com/ghpvc/?username=bsudarmani&color=blueviolet)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bsudarmani&label=Profile%20views&color=0e75b6&style=flat" alt="bsudarmani" /> </p>
 <img align="right" width="370" height="290" src="https://tenor.com/0ZUG.gif">
 
  ## About Me
