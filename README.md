@@ -1,7 +1,8 @@
 <h1 align="center"> Hi there 👋 It's me  Sudarmani</h1>
 <h4 align="center">An Aspiring MERN Stack Developer </h4>
 <img align="right" width="370" height="290" src="https://tenor.com/0ZUG.gif">
- 
+
+ ## About Me
 - 🔭 Here's my [portfolio](https://sudarmani.netlify.app/home)                                                 
 - 🌱 I’m currently learning Java
 - 💬 Ask me about Tech
