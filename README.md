@@ -4,7 +4,7 @@
 <img align="right" width="370" height="290" src="https://tenor.com/0ZUG.gif">
 
 <div align="center">
-  <img align="center" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+  <img align="center" alt="Coding" width="1000" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 </div>
 
  ## About Me
