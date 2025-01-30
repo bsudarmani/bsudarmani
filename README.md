@@ -3,6 +3,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bsudarmani&label=Profile%20views&color=0e75b6&style=flat" alt="bsudarmani" /> </p>
 <img align="right" width="370" height="290" src="https://tenor.com/0ZUG.gif">
 
+<div align="center">
+
+<img align="center" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+
+<br/><br/>
+
+</div>
  ## About Me
 - 🔭 Here's my [portfolio](https://sudarmani.netlify.app/home)                                                 
 - 🌱 I’m currently learning Java
