@@ -49,7 +49,7 @@
 ![Node.js](https://img.icons8.com/color/48/000000/nodejs.png)
 ![Express.js](https://img.icons8.com/ios/50/000000/express-js.png)
 ![Vite](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Vitejs-logo.svg/48px-Vitejs-logo.svg.png)
-![JWT](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Json_web_token_logo.svg/48px-Json_web_token_logo.svg.png)
+![JWT]([https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Json_web_token_logo.svg/48px-Json_web_token_logo.svg.png](https://img.icons8.com/?size=100&id=rHpveptSuwDz&format=png&color=000000))
 ![Git](https://img.icons8.com/color/48/000000/git.png)
 ![GitHub](https://img.icons8.com/glyph-neue/48/ffffff/github.png)
 ![VS Code](https://img.icons8.com/color/48/000000/visual-studio-code-2019.png)
@@ -57,7 +57,7 @@
 ![Jetpack Compose](https://img.icons8.com/color/48/000000/android-studio--v3.png)
 ![Postman](https://img.icons8.com/dusk/64/postman-api.png)
 ![Android Studio](https://img.icons8.com/color/48/000000/android-studio.png)
-![Retrofit](https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Retrofit.png/48px-Retrofit.png)
+![Retrofit]([https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Retrofit.png/48px-Retrofit.png](https://codingwithmitch.com/blog/android-retrofit2-getting-started/))
 
 ### Databases:
 ![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png)
