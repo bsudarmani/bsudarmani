@@ -30,11 +30,44 @@
   </a>
 </div>
 
-### Languages:
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" /><img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /><img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /><img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/bootstrap.png" /><img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/><img height="50" width="50" src="https://img.icons8.com/color/48/000000/mongodb.png"/><img height="50" width="50" src="https://img.icons8.com/color/48/000000/nodejs.png"/> 
 
-### IDE and Tools I Use
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/><img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/><img height="50" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/> 
+
+## My Skills
+
+### Languages & Scripts:
+![C](https://img.icons8.com/color/48/000000/c-programming.png)
+![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png)
+![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png)
+![Kotlin](https://img.icons8.com/color/48/000000/kotlin.png)
+![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)
+![HTML5](https://img.icons8.com/color/48/000000/html-5.png)
+![CSS3](https://img.icons8.com/color/48/000000/css3.png)
+
+### Frameworks, Libraries & Tools:
+![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png)
+![React](https://img.icons8.com/color/48/000000/react-native.png)
+![Node.js](https://img.icons8.com/color/48/000000/nodejs.png)
+![Express.js](https://img.icons8.com/ios-filled/50/000000/express-js.png)
+![Vite](https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-vite-js-next-generation-frontend-tooling-logo-color-tal-revivo.png)
+![JWT](https://img.icons8.com/ios-filled/50/000000/json-web-token.png)
+![Git](https://img.icons8.com/color/48/000000/git.png)
+![GitHub](https://img.icons8.com/glyph-neue/48/ffffff/github.png)
+![VS Code](https://img.icons8.com/color/48/000000/visual-studio-code-2019.png)
+![Android](https://img.icons8.com/color/48/000000/android-os.png)
+![Jetpack Compose](https://img.icons8.com/color/48/000000/android-studio--v3.png)
+![Postman](https://img.icons8.com/dusk/64/postman-api.png)
+![Android Studio](https://img.icons8.com/color/48/000000/android-studio.png)
+![Retrofit](https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Retrofit.png/200px-Retrofit.png)
+
+### Databases:
+![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png)
+![Firebase](https://img.icons8.com/color/48/000000/firebase.png)
+
+### Hosting & Deployment:
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
+![Cyclic](https://img.shields.io/badge/Cyclic-5C2D91?style=for-the-badge&logo=cyclic&logoColor=white)
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bsudarmani&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
