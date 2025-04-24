@@ -55,7 +55,8 @@
   <img height="50" width="50" src="https://img.icons8.com/?size=100&id=rHpveptSuwDz&format=png&color=000000" />
 <!--   <img height="50" width="50" src="https://img.icons8.com/color/48/000000/git.png" style="filter: grayscale(100%) brightness(0);"  /> -->
   <img height="50" width="50" src="https://img.icons8.com/ios-filled/50/000000/git.png" />
-  <img height="50" width="50" src="https://img.icons8.com/glyph-neue/48/ffffff/github.png" />
+<!--   <img height="50" width="50" src="https://img.icons8.com/glyph-neue/48/ffffff/github.png" /> -->
+  <img height="50" width="50" src="https://img.icons8.com/glyph-neue/48/000000/github.png" />
   <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" />
   <img height="50" width="50" src="https://img.icons8.com/color/48/000000/android-os.png" />
   <img height="50" width="50" src="https://img.icons8.com/color/48/000000/android-studio--v3.png" />
