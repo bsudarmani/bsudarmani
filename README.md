@@ -13,12 +13,9 @@
 
 <table align="center">
   <tr>
-  
     <td align="center" width="50%">
       <img src="https://github-readme-streak-stats.herokuapp.com?user=bsudarmani&theme=light" width="400" />
     </td>
-    
-   
     <td align="center" width="50%">
       <img alt="Coding" width="400" height="300" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" />
       <br><br>
@@ -26,8 +23,6 @@
     </td>
   </tr>
 </table>
-
-
 
 
  ## About Me
