@@ -6,15 +6,10 @@
   I aim to combine technical expertise with business acumen to deliver impactful solutions.
 </h4>
 
-<!-- Profile Views -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=bsudarmani&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+<img src="https://komarev.com/ghpvc/?username=bsudarmani&label=Visitors&color=ff69b4&style=for-the-badge" alt="bsudarmani" />
+<br>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=bsudarmani&theme=light" width="400" />
 
-<!-- Right Side GIF -->
-<p align="center">
-  <img width="370" height="290" src="https://tenor.com/0ZUG.gif" alt="Coding" />
-</p>
 
 <!-- About Me -->
 ## About Me
