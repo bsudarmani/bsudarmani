@@ -2,14 +2,22 @@
 <h4 align="center">Welcome to my GitHub profile! I'm a Full Stack Developer with a passion for leveraging my skills to build interactive and scalable web applications. With a strong foundation in tools like HTML, CSS, JavaScript, React JS, Bootstrap, Node.js, Express.js, MongoDB, I aim to combine technical expertise with business acumen to deliver impactful solutions. </h4>
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=bsudarmani&label=Profile%20views&color=0e75b6&style=flat" alt="bsudarmani" /> </p>
 <img align="right" width="370" height="290" src="https://tenor.com/0ZUG.gif"> -->
-<img src="https://komarev.com/ghpvc/?username=bsudarmani&label=Visitors&color=ff69b4&style=for-the-badge" alt="bsudarmani" />
+<!-- <img src="https://komarev.com/ghpvc/?username=bsudarmani&label=Visitors&color=ff69b4&style=for-the-badge" alt="bsudarmani" />
 <br>
 <img src="https://github-readme-streak-stats.herokuapp.com?user=bsudarmani&theme=light" width="400" />
 
 
+<!--<div align="center">
+  <img align="center" alt="Coding" width="600" height="300" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+</div> -->
 <div align="center">
+  <img src="https://komarev.com/ghpvc/?username=bsudarmani&label=Visitors&color=ff69b4&style=for-the-badge" alt="bsudarmani" />
+  <br><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=bsudarmani&theme=light" width="400" />
+  <br><br>
   <img align="center" alt="Coding" width="600" height="300" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 </div>
+
 
  ## About Me
 - 🔭 Here's my [portfolio](https://sudarmani.netlify.app/home)                                                 
