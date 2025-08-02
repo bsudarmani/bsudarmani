@@ -10,12 +10,20 @@
 <!--<div align="center">
   <img align="center" alt="Coding" width="600" height="300" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 </div> -->
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=bsudarmani&label=Visitors&color=ff69b4&style=for-the-badge" alt="bsudarmani" />
-  <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=bsudarmani&theme=light" width="400" />
-  <br><br>
-  <img align="center" alt="Coding" width="600" height="300" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
+  
+  <!-- Left Side: GitHub Streak -->
+  <div>
+    <img src="https://komarev.com/ghpvc/?username=bsudarmani&label=Visitors&color=ff69b4&style=for-the-badge" alt="bsudarmani" />
+    <br><br>
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=bsudarmani&theme=light" width="400" />
+  </div>
+  
+  <!-- Right Side: GIF -->
+  <div>
+    <img alt="Coding" width="400" height="300" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" />
+  </div>
+  
 </div>
 
 
