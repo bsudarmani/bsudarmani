@@ -48,9 +48,6 @@
   <img src="https://img.icons8.com/color/48/c-plus-plus-logo.png"/>
   <img src="https://img.icons8.com/color/48/java-coffee-cup-logo.png"/>
   <img src="https://img.icons8.com/color/48/kotlin.png"/>
-</div>
-
-<div align="center">
   <img src="https://img.icons8.com/color/48/javascript.png"/>
   <img src="https://img.icons8.com/color/48/html-5.png"/>
   <img src="https://img.icons8.com/color/48/css3.png"/>
@@ -64,16 +61,10 @@
   <img src="https://img.icons8.com/color/48/react-native.png"/>
   <img src="https://img.icons8.com/color/48/nodejs.png"/>
   <img src="https://img.icons8.com/ios/50/express-js.png"/>
-</div>
-
-<div align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Vitejs-logo.svg" width="50"/>
   <img src="https://img.icons8.com/?size=100&id=rHpveptSuwDz&format=png&color=000000" width="50"/>
   <img src="https://img.icons8.com/ios-filled/50/git.png"/>
   <img src="https://img.icons8.com/glyph-neue/48/github.png"/>
-</div>
-
-<div align="center">
   <img src="https://img.icons8.com/color/48/visual-studio-code-2019.png"/>
   <img src="https://img.icons8.com/color/48/android-os.png"/>
   <img src="https://img.icons8.com/color/48/android-studio--v3.png"/>
