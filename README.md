@@ -40,41 +40,53 @@
 </div>
 
 ---
+## My Skills  
 
-## My Skills
+### 🚀 Languages & Scripts:
+<div align="center">
+  <img src="https://img.icons8.com/color/48/c-programming.png"/>
+  <img src="https://img.icons8.com/color/48/c-plus-plus-logo.png"/>
+  <img src="https://img.icons8.com/color/48/java-coffee-cup-logo.png"/>
+  <img src="https://img.icons8.com/color/48/kotlin.png"/>
+</div>
 
-### Languages & Scripts:
-<p align="left">
-  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" />
-  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" />
-  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" />
-  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/kotlin.png" />
-  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png" />
-  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" />
-  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" />
-</p>
+<div align="center">
+  <img src="https://img.icons8.com/color/48/javascript.png"/>
+  <img src="https://img.icons8.com/color/48/html-5.png"/>
+  <img src="https://img.icons8.com/color/48/css3.png"/>
+</div>
 
-### Frameworks, Libraries & Tools:
-<p align="left">
-  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/bootstrap.png" />
-  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/react-native.png" />
-  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/nodejs.png" />
-  <img height="50" width="50" src="https://img.icons8.com/ios/50/000000/express-js.png" />
-  <img height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Vitejs-logo.svg" />
-  <img height="50" width="50" src="https://img.icons8.com/?size=100&id=rHpveptSuwDz&format=png&color=000000" />
-  <img height="50" width="50" src="https://img.icons8.com/ios-filled/50/000000/git.png" />
-  <img height="50" width="50" src="https://img.icons8.com/glyph-neue/48/000000/github.png" />
-  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" />
-  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/android-os.png" />
-  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/android-studio--v3.png" />
-  <img height="50" width="50" src="https://img.icons8.com/dusk/64/postman-api.png" />
-</p>
+---
 
-### Databases:
-<p align="left">
-  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mongodb.png" />
-  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/firebase.png" />
-</p>
+### ⚙️ Frameworks, Libraries & Tools:
+<div align="center">
+  <img src="https://img.icons8.com/color/48/bootstrap.png"/>
+  <img src="https://img.icons8.com/color/48/react-native.png"/>
+  <img src="https://img.icons8.com/color/48/nodejs.png"/>
+  <img src="https://img.icons8.com/ios/50/express-js.png"/>
+</div>
+
+<div align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Vitejs-logo.svg" width="50"/>
+  <img src="https://img.icons8.com/?size=100&id=rHpveptSuwDz&format=png&color=000000" width="50"/>
+  <img src="https://img.icons8.com/ios-filled/50/git.png"/>
+  <img src="https://img.icons8.com/glyph-neue/48/github.png"/>
+</div>
+
+<div align="center">
+  <img src="https://img.icons8.com/color/48/visual-studio-code-2019.png"/>
+  <img src="https://img.icons8.com/color/48/android-os.png"/>
+  <img src="https://img.icons8.com/color/48/android-studio--v3.png"/>
+  <img src="https://img.icons8.com/dusk/64/postman-api.png"/>
+</div>
+
+---
+
+### 🗄️ Databases:
+<div align="center">
+  <img src="https://img.icons8.com/color/48/mongodb.png"/>
+  <img src="https://img.icons8.com/color/48/firebase.png"/>
+</div>
 
 ### Hosting & Deployment:
 <p align="left">
