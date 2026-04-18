@@ -93,3 +93,13 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bsudarmani&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
   <img src="https://github-readme-stats.vercel.app/api?username=bsudarmani&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
 </div>
+
+<div align="center">
+<h2>🚀 Consistency Compounds</h2>
+<p><i>"Stay consistent. Improve 1% every day."</i></p>
+<p>
+📉 (1.00)<sup>365</sup> = 1 <br>
+📈 (1.01)<sup>365</sup> ≈ 37.7
+</p>
+<p><b>👉 The difference? Daily effort.</b></p>
+</div>
